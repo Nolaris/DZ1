@@ -11,5 +11,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "inuit-normalize.css": "inuit-normalize#^3.0.3"
+  }
 }
